@@ -16,12 +16,36 @@
             "media": {
                 "caption":      "",
                 "credit":       "",
-                "url":          "",
+                "url":          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/IHK-logo.svg/1122px-IHK-logo.svg.png",
                 "thumbnail":    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/IHK-logo.svg/1122px-IHK-logo.svg.png"
             },
             "text": {
                 "headline": "Auszubildender Fachinformatiker für Systemintegration",
                 "text":     "IHK München"
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2011",
+                "month":        "12",
+                "day":          "27",
+                "format":       ""
+            },
+                    "end_date": {
+                "year":         "2011",
+                "month":        "12",
+                "day":          "30",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "https://events.ccc.de/congress/2011/wiki/skins/behindenemylines/logo_hintergrund.png",
+                "thumbnail":    "https://events.ccc.de/congress/2011/wiki/skins/behindenemylines/logo_hintergrund.png"
+            },
+            "text": {
+                "headline": "28C3",
+                "text":     "28th Chaos Communication Congress (Attending)"
             }
         },
         {
@@ -38,15 +62,64 @@
                 "format":       ""
             },
             "media": {
-                "caption":      "blafo fbsdfjlas",
-                "credit":       "dsjafklbalsdfl",
-                "url":          "",
-                "thumbnail":    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/IHK-logo.svg/1122px-IHK-logo.svg.png"
+                "caption":      "",
+                "credit":       "",
+                "url":          "/images/genua-logo.jpg",
+                "thumbnail":    "/images/genua-logo.jpg"
             },
             "text": {
                 "headline": "Software Developer genua gmbh",
                 "text":     "Developing a management system for complex security architectures"
             }
+        },
+        {
+            "start_date": {
+                "year":         "2015",
+                "month":        "09",
+                "day":          "01",
+                "format":       ""
+            },
+                    "end_date": {
+                "year":         "2015",
+                "month":        "09",
+                "day":          "04",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/images/Full-Stack-Fest-2015.png",
+                "thumbnail":    "/images/Full-Stack-Fest-2015.png"
+            },
+            "text": {
+                "headline": "Full Stack Fest Barcelona 2015",
+                "text":     "Attending"
+            }
+        },
+        {
+            "start_date": {
+                "year":         "2015",
+                "month":        "09",
+                "day":          "03",
+                "format":       ""
+            },
+                    "end_date": {
+                "year":         "2015",
+                "month":        "09",
+                "day":          "03",
+                "format":       ""
+            },
+            "media": {
+                "caption":      "",
+                "credit":       "",
+                "url":          "/images/Full-Stack-Fest-2015.png",
+                "thumbnail":    "/images/Full-Stack-Fest-2015.png"
+            },
+            "text": {
+                "headline": "Creating a real-time monitoring app for twitter using react.js",
+                "text":     "Attending Workshop"
+            }
         }
+
     ]
 }
