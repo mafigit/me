@@ -17,5 +17,5 @@ who likes good functional user interfaces and computers running unix.
 At the moment I am working on a managment system that aims to provide a simple
 UI for managing complex security architectures at [genua gmbh](#)
 
-## Curriculum Vitae
+<h2 style='text-align: center;margin-top:1em;'><a href="#timeline">Curriculum Vitae</a></h2>
 <div id='timeline'></div>
